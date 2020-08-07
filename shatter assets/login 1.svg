@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="640" viewBox="0 0 360 640">
+  <defs>
+    <clipPath id="clip-login_1">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="login_1" data-name="login 1" clip-path="url(#clip-login_1)">
+    <rect width="360" height="640" fill="#fff"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M359.5,292.992v0c-26.747-13.456-53.613-28.583-79.853-44.961-23.854-14.888-47.727-31.145-70.956-48.317A1187.686,1187.686,0,0,1,95.627,104.539C81.523,91.091,67.719,77.265,54.6,63.446c-10.5-11.055-20.58-22.131-29.973-32.92C8.573,12.087.084.843,0,.732L359.5,0V292.992Z" transform="translate(2 6.053)" fill="#7abbf9"/>
+    <g id="Backward_arrow" data-name="Backward arrow" transform="translate(280 477)">
+      <path id="Path_10" data-name="Path 10" d="M8,16,6.545,14.545l5.506-5.506H0V6.961H12.052L6.545,1.455,8,0l8,8Z" fill="#fff"/>
+    </g>
+    <path id="Intersection_2" data-name="Intersection 2" d="M-813.272,326.238q-.127-26.185-.228-49.667V-7.673c.069-2.9.131-4.226.173-4.827h290.01l68.817.119V120.135A1523.173,1523.173,0,0,1-608.1,225.1c-31.74,18.936-64.321,36.742-96.839,52.921-17.428,8.671-35.184,17.048-52.775,24.9C-776.073,311.113-794.767,318.957-813.272,326.238Zm0,0h0Z" transform="translate(812 41)" fill="#7abbf9"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M-813.272,327.238q-.127-26.185-.228-49.667V-6.674A44.96,44.96,0,0,1-813.272-12l358.524.617V121.328A1523.1,1523.1,0,0,1-610.191,227.35c-31.449,18.692-63.724,36.276-95.928,52.263-17.245,8.56-34.813,16.832-52.216,24.586C-776.492,312.288-794.975,320.04-813.272,327.238Zm0,0h0Z" transform="translate(812 11)" fill="#58a5f0"/>
+    <path id="Path_11" data-name="Path 11" d="M471.359,360.881s78.293-32.119,148.549-77.013S471.359,360.881,471.359,360.881Z" transform="translate(-414.359 -61.98)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="377.206" height="291.462" viewBox="0 0 377.206 291.462">
+  <g id="splash_icon" transform="translate(46.252 -193.277)">
+    <g id="Group_7" data-name="Group 7" transform="translate(73.351 267)" style="isolation: isolate">
+      <g id="Group_9" data-name="Group 9" transform="translate(0 43.323)" opacity="0.75" style="isolation: isolate">
+        <path id="Path_4" data-name="Path 4" d="M133.3,34.835,29.471,32.058h-.047a36.147,36.147,0,0,1-10.919-1.5c-2.922-.967-4.531-2.254-4.531-3.623v-.014l-.007-.014L5.112,8.716c.011-1.364,1.619-2.645,4.531-3.609a36.147,36.147,0,0,1,10.919-1.5H20.6L149.317.5a36.124,36.124,0,0,1,10.9,1.5c2.908.963,4.516,2.242,4.531,3.6l-16,24.075-.013.019v.019c0,1.369-1.609,2.655-4.531,3.623A36.122,36.122,0,0,1,133.3,34.835Z" transform="translate(2.856 -0.5)" fill="#e0e0e0" style="mix-blend-mode: darken;isolation: isolate"/>
+        <path id="Path_5" data-name="Path 5" d="M28.752,1.474S22.531,22.645,0,35.826C51.57,36.251,46.684,0,46.684,0Z" transform="translate(0 22.34) rotate(-25)" fill="#e0e0e0" style="mix-blend-mode: darken;isolation: isolate"/>
+        <path id="Path_6" data-name="Path 6" d="M125.434,47.9,27.976,44.07h-.044A24,24,0,0,1,17.683,42c-2.743-1.336-4.253-3.112-4.253-5v-.02l-.006-.019L5.112,11.844c.01-1.883,1.52-3.651,4.253-4.982A24,24,0,0,1,19.614,4.793h.04L140.466.5a23.987,23.987,0,0,1,10.229,2.068c2.73,1.329,4.239,3.1,4.253,4.975L139.925,40.783l-.012.026v.027c0,1.89-1.51,3.666-4.253,5A23.986,23.986,0,0,1,125.434,47.9Z" transform="translate(12.655 4.5)" fill="#fff"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(3.649 0)">
+        <path id="Path_4-2" data-name="Path 4" d="M118.182,93.939,26.6,86.38l-.021,0h-.021A13.39,13.39,0,0,1,16.925,82.3a14,14,0,0,1-4-9.859V72.4l-.006-.038L5.112,22.859a14,14,0,0,1,4-9.821A13.39,13.39,0,0,1,18.74,8.962h.037L132.308.5a13.39,13.39,0,0,1,9.613,4.076,14,14,0,0,1,4,9.807L131.8,79.9l-.011.051V80a14,14,0,0,1-4,9.859A13.39,13.39,0,0,1,118.182,93.939Z" transform="translate(-0.792 -0.5)" fill="#e0e0e0" style="mix-blend-mode: darken;isolation: isolate"/>
+        <path id="Path_5-2" data-name="Path 5" d="M25.413,0S20.875,17.562,0,27.193C49.919,31.159,42.658,0,42.658,0Z" transform="translate(0 79.708) rotate(-25)" fill="#e0e0e0" style="mix-blend-mode: darken;isolation: isolate"/>
+        <path id="Path_6-2" data-name="Path 6" d="M110.313,79.335,25.1,72.958h-.039A13.116,13.116,0,0,1,16.1,69.517,11.267,11.267,0,0,1,12.385,61.2v-.033l-.006-.032L5.112,19.365A11.268,11.268,0,0,1,8.83,11.079,13.116,13.116,0,0,1,17.791,7.64h.035L123.456.5A13.115,13.115,0,0,1,132.4,3.939a11.269,11.269,0,0,1,3.718,8.274L122.984,67.491l-.01.043v.044a11.267,11.267,0,0,1-3.719,8.318A13.115,13.115,0,0,1,110.313,79.335Z" transform="translate(9.007 4.5)" fill="#fff"/>
+        <text id="Shat" transform="translate(36.82 62.122)" fill="#58a5f0" font-size="45" font-family="REZ" letter-spacing="0.08em"><tspan x="0" y="0">Shat</tspan></text>
+      </g>
+      <line id="Line_7" data-name="Line 7" x2="7" transform="translate(132.315 52.628)" fill="none" stroke="#58a5f0" stroke-width="4"/>
+      <g id="Group_8" data-name="Group 8" transform="translate(140.5 33.115)">
+        <text id="ter" transform="translate(11.5 30)" fill="#fff" font-size="48" font-family="REZ" letter-spacing="0.087em"><tspan x="0" y="0">ter</tspan></text>
+        <line id="Line_8" data-name="Line 8" x2="7" transform="translate(0 19.5)" fill="none" stroke="#fff" stroke-width="4"/>
+      </g>
+    </g>
+    <text id="feel_the_connection" data-name="feel the connection" transform="matrix(0.998, -0.07, 0.07, 0.998, 86.481, 269.78)" fill="#fff" font-size="10" font-family="MVBoli, MV Boli" letter-spacing="0.226em"><tspan x="0" y="0">feel the connection</tspan></text>
+  </g>
+</svg>
